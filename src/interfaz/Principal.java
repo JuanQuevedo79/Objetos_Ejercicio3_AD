@@ -264,8 +264,8 @@ public class Principal extends javax.swing.JFrame {
     }//GEN-LAST:event_txtReal2KeyTyped
 
     private void txtImaginario2KeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtImaginario2KeyTyped
-        char c = evt.getKeyChar();
-        if (!Character.isDigit(c)) {
+        char a = evt.getKeyChar();
+        if (!Character.isDigit(a)) {
             getToolkit().beep();
             evt.consume();
         }
