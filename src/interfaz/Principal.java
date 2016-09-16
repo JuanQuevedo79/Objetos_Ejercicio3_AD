@@ -17,7 +17,7 @@ public class Principal extends javax.swing.JFrame {
     /**
      * Creates new form Principal
      */
-    Complejo f;
+    Complejo a;
    
     public Principal() {
         initComponents();
